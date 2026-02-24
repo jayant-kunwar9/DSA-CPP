@@ -155,5 +155,7 @@ add_executable(untitled
         Magnetic_Force_Between_Two_Balls.h
         Sum_Of_Root_To_Leaf_Binary_Numbers.cpp
         Sum_Of_Root_To_Leaf_Binary_Numbers.h
+        Rotate_Array.cpp
+        Rotate_Array.h
 
 )
