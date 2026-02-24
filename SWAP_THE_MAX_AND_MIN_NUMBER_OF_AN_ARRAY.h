@@ -1,0 +1,16 @@
+//
+// Created by jayan on 24-08-2025.
+//
+
+#ifndef SWAP_THE_MAX_AND_MIN_NUMBER_OF_AN_ARRAY_H
+#define SWAP_THE_MAX_AND_MIN_NUMBER_OF_AN_ARRAY_H
+
+
+
+class SWAP_THE_MAX_AND_MIN_NUMBER_OF_AN_ARRAY {
+
+};
+
+
+
+#endif //SWAP_THE_MAX_AND_MIN_NUMBER_OF_AN_ARRAY_H
