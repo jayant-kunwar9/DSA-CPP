@@ -157,5 +157,43 @@ add_executable(untitled
         Sum_Of_Root_To_Leaf_Binary_Numbers.h
         Rotate_Array.cpp
         Rotate_Array.h
+        Check_If_Rotated_and_Sorted_Array.cpp
+        Check_If_Rotated_and_Sorted_Array.h
+        Length_of_String.cpp
+        Length_of_String.h
+        Reverse_String.cpp
+        Reverse_String.h
+        Replace_Spaces.cpp
+        Replace_Spaces.h
+        Remove_All_Occurences_Of_A_Substring.cpp
+        Remove_All_Occurences_Of_A_Substring.h
+        String_Compression.cpp
+        String_Compression.h
+        Intro_2D_Array.cpp
+        Intro_2D_Array.h
+        Linear_Search_2D_Array.cpp
+        Linear_Search_2D_Array.h
+        Row_Wise_Sum_in_2D_Array.cpp
+        Row_Wise_Sum_in_2D_Array.h
+        Largest_Row_Sum.cpp
+        Largest_Row_Sum.h
+        Spiral_Matrix.cpp
+        Spiral_Matrix.h
+        Rotate_Image.cpp
+        Rotate_Image.h
+        Search_in_a_2D_Matrix.cpp
+        Search_in_a_2D_Matrix.h
+        Transpose_Matrix.cpp
+        Transpose_Matrix.h
+        Prime_Number.cpp
+        Prime_Number.h
+        Toeplitz_Matrix.cpp
+        Toeplitz_Matrix.h
+        Set_Matrix_Zeroes.cpp
+        Set_Matrix_Zeroes.h
+        Count_Negatives_in_a_2D_Matrix.cpp
+        Count_Negatives_in_a_2D_Matrix.h
+        Special_Position_on_2D_Matrix.cpp
+        Special_Position_on_2D_Matrix.h
 
 )
