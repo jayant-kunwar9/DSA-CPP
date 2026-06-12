@@ -22,7 +22,7 @@ int main() {
 
     vector<int> gain={-5,1,5,0,-7};
 
-    cout<< "Highest Altitude of a point: "<<largestAltitude(gain);
+    cout<< "Highest Altitude of a point: "<<largestAltitude(gain)<<endl;
 
     return 0;
 
