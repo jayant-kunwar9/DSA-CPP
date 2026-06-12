@@ -125,7 +125,7 @@ add_executable(untitled
         Product_of_Array_Except_Itself.h
         second_lab_of_daa.cpp
         second_lab_of_daa.h
-        POINTER.cpp
+        POINTER_lecture25.cpp
         POINTER.h
         Search_in_a_Rotated_Sorted_Array.cpp
         Search_in_a_Rotated_Sorted_Array.h
@@ -195,5 +195,11 @@ add_executable(untitled
         Count_Negatives_in_a_2D_Matrix.h
         Special_Position_on_2D_Matrix.cpp
         Special_Position_on_2D_Matrix.h
+        Pointer_lecture26.cpp
+        Pointer_lecture26.h
+        Remove_Element_Leetcode_27.cpp
+        Remove_Element_Leetcode_27.h
+        Find_the_highest_Altitude.cpp
+        Find_the_highest_Altitude.h
 
 )
