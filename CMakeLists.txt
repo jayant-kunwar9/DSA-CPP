@@ -201,5 +201,7 @@ add_executable(untitled
         Remove_Element_Leetcode_27.h
         Find_the_highest_Altitude.cpp
         Find_the_highest_Altitude.h
+        Merge_Intervals_Leetcode_56.cpp
+        Merge_Intervals_Leetcode_56.h
 
 )
