@@ -203,5 +203,11 @@ add_executable(untitled
         Find_the_highest_Altitude.h
         Merge_Intervals_Leetcode_56.cpp
         Merge_Intervals_Leetcode_56.h
+        Pointer_lecture_27.cpp
+        Pointer_lecture_27.h
+        LeetCode_15_3SUM.cpp
+        LeetCode_15_3SUM.h
+        Lecture_27_Questions.cpp
+        Lecture_27_Questions.h
 
 )
