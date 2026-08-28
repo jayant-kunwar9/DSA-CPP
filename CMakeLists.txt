@@ -209,5 +209,13 @@ add_executable(untitled
         LeetCode_15_3SUM.h
         Lecture_27_Questions.cpp
         Lecture_27_Questions.h
+        Lecture_28.cpp
+        Lecture_28.h
+        Leetcode_153.cpp
+        Leetcode_153.h
+        Leecode_977.cpp
+        Leecode_977.h
+        Leetcode_289.cpp
+        Leetcode_289.h
 
 )
