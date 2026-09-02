@@ -218,5 +218,7 @@ add_executable(untitled
         Leetcode_289.h
         Leetcode_485.cpp
         Leetcode_485.h
+        leetcode_2149.cpp
+        leetcode_2149.h
 
 )
