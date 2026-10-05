@@ -220,5 +220,9 @@ add_executable(untitled
         Leetcode_485.h
         leetcode_2149.cpp
         leetcode_2149.h
+        minMax.cpp
+        minMax.h
+        Linked_List_1.cpp
+        Linked_List_1.h
 
 )
