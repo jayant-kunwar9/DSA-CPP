@@ -93,6 +93,45 @@
 //         temp->next = NULL;
 //     }
 //
+//     void insert(int val, int pos) {     // to insert any node in any position
+//
+//         if (pos<0) {
+//             cout<<"Invalid Position"<<endl;
+//         }
+//         if (pos==0) {
+//             push_front(val);
+//             return;
+//         }
+//
+//         Node* temp = head;
+//
+//         for (int i =0;i<pos-1;i++) {
+//             temp= temp->next;
+//         }
+//
+//         Node* newNode = new Node(val);
+//         newNode->next= temp->next;
+//         temp->next= newNode;
+//
+//
+//     }
+//
+//     int search(int val) {     // to search something in linked list
+//
+//         Node* temp =head;
+//         int idx=0;
+//
+//         while (temp!=NULL) {
+//             if (temp->data==val) {
+//                 return idx;
+//
+//             }
+//             temp=temp->next;
+//             idx++;
+//         }
+//         return -1;
+//     }
+//
 //     // to print the linked list:
 //
 //     void printLL() {
@@ -109,19 +148,25 @@
 // int main() {
 //
 //     List ll ; // this way our link list create in our main function, just writing this line
-//     ll.push_front(1);
-//     ll.push_front(2);
 //     ll.push_front(3);
+//     ll.push_front(2);
+//     ll.push_front(1);
 //
-//     ll.push_back(4);
+//     //ll.push_back(4);
 //
-//     ll.pop_front();   // this will delete the 3 node...
+//    // ll.pop_front();   // this will delete the 3 node...
+//
+//     ll. insert(4,1);
+//
+//
 //
 //
 //
 //     ll.printLL();
 //
-//     ll.pop_back();
-//     ll.printLL();
+//     cout<<ll.search(2);
+//
+//    // ll.pop_back();
+//     //ll.printLL();
 //
 // }

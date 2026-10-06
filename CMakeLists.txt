@@ -228,5 +228,13 @@ add_executable(untitled
         Leetcode_118_Pascal_Triangle.h
         Leetcode_119_Pascal_Triangle_II.cpp
         Leetcode_119_Pascal_Triangle_II.h
+        Reverse_a_Linked_List_Leetcode_206.cpp
+        Reverse_a_Linked_List_Leetcode_206.h
+        Middle_of_a_Linked_List_Leetcode_876_Slow_Fast_Approach.cpp
+        Middle_of_a_Linked_List_Leetcode_876_Slow_Fast_Approach.h
+        Middle_of_a_Linked_List_Leetcode_876_Brute_Force_Approach.cpp
+        Middle_of_a_Linked_List_Leetcode_876_Brute_Force_Approach.h
+        Linked_List_Cycle_Leetcode_141.cpp
+        Linked_List_Cycle_Leetcode_141.h
 
 )
