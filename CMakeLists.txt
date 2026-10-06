@@ -224,5 +224,9 @@ add_executable(untitled
         minMax.h
         Linked_List_1.cpp
         Linked_List_1.h
+        Leetcode_118_Pascal_Triangle.cpp
+        Leetcode_118_Pascal_Triangle.h
+        Leetcode_119_Pascal_Triangle_II.cpp
+        Leetcode_119_Pascal_Triangle_II.h
 
 )
