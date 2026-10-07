@@ -238,5 +238,7 @@ add_executable(untitled
         Linked_List_Cycle_Leetcode_141.h
         Linked_List_Cycle_II_Leetcode_142.cpp
         Linked_List_Cycle_II_Leetcode_142.h
+        Merge_Two_Sorted_List_Leetcode_21.cpp
+        Merge_Two_Sorted_List_Leetcode_21.h
 
 )
