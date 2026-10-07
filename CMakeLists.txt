@@ -236,5 +236,7 @@ add_executable(untitled
         Middle_of_a_Linked_List_Leetcode_876_Brute_Force_Approach.h
         Linked_List_Cycle_Leetcode_141.cpp
         Linked_List_Cycle_Leetcode_141.h
+        Linked_List_Cycle_II_Leetcode_142.cpp
+        Linked_List_Cycle_II_Leetcode_142.h
 
 )
